@@ -43,6 +43,7 @@ DEDUCTION_CATEGORIES = (
     "tuition",
     "healthcare",
     "sales tax"
+    "home office"
 )
 
 
